@@ -3,6 +3,8 @@
 
 ## Meanful Names
 
+> Rule: *Use intention-revealing names*
+
 ~~~
 int d; // elapsed time in days
 d ... means nothing instead use
@@ -12,7 +14,7 @@ int daysSinceCreation;
 int daysSinceModification;
 ~~~
 
-> Rule: *Do not i, j, k for index in loops.*
+> Rule: *Do not use i, j, k in loops.*
 
 ~~~
 for(int i = 0; i < 5; i++)
