@@ -82,5 +82,36 @@ There is a class Customer and a CustomerObject what is the distinct
     
     Use ShapeFactory and ShapeFactoryImp instead of IShapeFactory and ShapeFactory
     
+> Rule: Avoid Mental Mapping
 
+> Rule: Class Names
+
+> Rule: Method Names
+
+> Rule: Don't be cute
+
+> Rule: Pick One Word per Concept
+
+> Rule: Don't Pun
+
+> Rule: Use Solution Domain Names
+
+> Rule: Use Problem Domain Names
+
+> Rule: Add Meaningful Context
+
+> Rule: Don't Add Gratuitous Context
+
+Dont not use a prefix for every class NSString NS for NextStep
+
+Do not use
+
+customerAdress
+accountAdress
+
+use
+
+PostalAdress for a postal adress
+Mac for a mac adress
+URI for a web adress
 
