@@ -61,6 +61,19 @@ There is a class Customer and a CustomerObject what is the distinct
 
 > Rule: *Create searchable names*
 
+    for (int j=0; j<34; j++)
+    {
+        s += (t[j]*4)/5;
+    }
+        
+    for (in j=0; j < numberOfTasks; j++)
+    {
+        int realTaskDays = taskEstimate[j] * realDaysPerIdealDay;
+        int realTaskWeeks = (realdays / WORK_DAYS_PER_WEEK);
+        sum += realTaskWeeks;
+    }     
+        
+
 > Rule: *Avoid encoding*
 
     PhoneNumber phoneString; // name not changed if type changed
