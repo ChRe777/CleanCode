@@ -38,10 +38,10 @@ Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
 
 > Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
  
-Bad examples:
-  - LayerManager
-  - ProductInfo
-  - ProductData
+Bad examples are
+- LayerManager
+- ProductInfo
+- ProductData
 
 *ProductInfo* or *ProductData* are mean the same.
 *Info* and *Data* are like Noise words like *a*, *an* and *the*.
@@ -54,10 +54,20 @@ Examples: CustomerTable, errorString, firstVariable ...
 
 There is a class Customer and a CustomerObject what is the distinct
 
-moneyAmount is indistinguishable from money
-customerInfo is -"- from customer
-account is -"- from accountData
-theMessage is -"- from message
+    moneyAmount is indistinguishable from money
+    customerInfo is -"- from customer
+    account is -"- from accountData
+    theMessage is -"- from message
 
-    Rule: *Create searchable names*
+> Rule: *Create searchable names*
+
+> Rule: *Avoid encoding*
+
+    PhoneNumber phoneString; // name not changed if type changed
+    
+    private string m_desc; // the textual description
+    
+    Use ShapeFactory and ShapeFactoryImp instead of IShapeFactory and ShapeFactory
+    
+
 
