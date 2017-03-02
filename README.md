@@ -14,6 +14,10 @@ int daysSinceCreation;
 int daysSinceModification;
 ~~~
 
+> Rule: *Avoid disinformation.*
+
+Do not say *accountList* for grouping of accounts, say *accountGroup* or *accounts* for instance.
+
 > Rule: *Do not use i, j, k in loops.*
 
 ~~~
@@ -34,8 +38,8 @@ Bad examples:
   - ProductInfo
   - ProductData
 
-ProductInfo or ProductData are mean the same.
-Info and Data are like Noise words like a, an and the.
+*ProductInfo* or *ProductData* are mean the same.
+*Info* and *Data* are like Noise words like *a*, *an* and *the*.
 
 > Rule: The word *variable, table, string* should never appear in a variable name.
 
