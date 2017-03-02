@@ -7,18 +7,17 @@
 
 ### Meanful Names
 
-    Rule: *Use intention-revealing names*
+> Rule: *Use intention-revealing names*
 
-~~~
-int d; // elapsed time in days
-d ... means nothing instead use
 
-int elapsedTimeInDays;
-int daysSinceCreation;
-int daysSinceModification;
-~~~
+    int d; // elapsed time in days
+    d ... means nothing instead use
 
-    Rule: *Avoid disinformation.*
+    int elapsedTimeInDays;
+    int daysSinceCreation;
+    int daysSinceModification;
+
+> Rule: *Avoid disinformation.*
 
 Do not say *accountList* for grouping of accounts, say *accountGroup* or *accounts* for instance.
 
@@ -27,18 +26,17 @@ Do not say *accountList* for grouping of accounts, say *accountGroup* or *accoun
 Use for instance *index* instead of *i* if *i* means index.
 Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
 
-~~~
-for(int i = 0; i < 5; i++)
-for(int index = 0; index < COUNT_ITEMS; index++)
+    for(int i = 0; i < 5; i++)
+    for(int index = 0; index < COUNT_ITEMS; index++)
 
-if (cell[STATUS_VALUE] == FLAGGED) { ... }
-if (cell.isFlagged()) { ... }
+    if (cell[STATUS_VALUE] == FLAGGED) { ... }
+    if (cell.isFlagged()) { ... }
 
-public static copyChars(char[] a1, char[] a2) { ... }
-public statix copyChars(char[] source, char[] destination) { ... }
-~~~
+    public static copyChars(char[] a1, char[] a2) { ... }
+    public statix copyChars(char[] source, char[] destination) { ... }
 
-    Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
+
+> Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
  
 Bad examples:
   - LayerManager
@@ -48,11 +46,11 @@ Bad examples:
 *ProductInfo* or *ProductData* are mean the same.
 *Info* and *Data* are like Noise words like *a*, *an* and *the*.
 
-    Rule: *The word 'variable', 'table', 'string' should never appear in a variable name.*
+> Rule: *The word 'variable', 'table', 'string' should never appear in a variable name.*
 
 Examples: CustomerTable, errorString, firstVariable ...
 
-    Rule: *Distinguish names in such a way that the reader knows what the differences offer*
+> Rule: *Distinguish names in such a way that the reader knows what the differences offer*
 
 There is a class Customer and a CustomerObject what is the distinct
 
