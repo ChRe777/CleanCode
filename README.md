@@ -18,11 +18,14 @@ int daysSinceModification;
 
 Do not say *accountList* for grouping of accounts, say *accountGroup* or *accounts* for instance.
 
-> Rule: *Do not use i, j, k in loops.*
+> Rule: *Do not use 'i', 'j' or 'k' in loops.*
+
+Use for instance *index* instead of *i* if *i* means index.
+Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
 
 ~~~
 for(int i = 0; i < 5; i++)
-for(int inde = 0; index < COUNT; index++)
+for(int index = 0; index < COUNT_ITEMS; index++)
 
 if (cell[STATUS_VALUE] == FLAGGED) { ... }
 if (cell.isFlagged()) { ... }
@@ -31,7 +34,7 @@ public static copyChars(char[] a1, char[] a2) { ... }
 public statix copyChars(char[] source, char[] destination) { ... }
 ~~~
 
-> Rule: Avoid words like *Manager, Processor, Data or Info*
+> Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
  
 Bad examples:
   - LayerManager
@@ -41,7 +44,7 @@ Bad examples:
 *ProductInfo* or *ProductData* are mean the same.
 *Info* and *Data* are like Noise words like *a*, *an* and *the*.
 
-> Rule: The word *variable, table, string* should never appear in a variable name.
+> Rule: *The word 'variable', 'table', 'string' should never appear in a variable name.*
 
 Examples: CustomerTable, errorString, firstVariable ...
 
@@ -56,4 +59,3 @@ theMessage is -"- from message
 
 > Rule: *Create searchable names*
 
-Do not use i, j use index to search for the word index
