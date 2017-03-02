@@ -106,12 +106,12 @@ Dont not use a prefix for every class NSString NS for NextStep
 
 Do not use
 
-customerAdress
-accountAdress
+    customerAdress
+    accountAdress
 
 use
 
-PostalAdress for a postal adress
-Mac for a mac adress
-URI for a web adress
+    PostalAdress for a postal adress
+    Mac for a mac adress
+    URI for a web adress
 
