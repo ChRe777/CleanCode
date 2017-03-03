@@ -35,7 +35,9 @@ Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
     public static copyChars(char[] a1, char[] a2) { ... }
     public statix copyChars(char[] source, char[] destination) { ... }
 
-###Avoid words like 'Manager', 'Processor', 'Data' or 'Info'
+###Make Meaningful Distinctions
+
+> Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
  
 Bad examples are
 - LayerManager
@@ -45,11 +47,11 @@ Bad examples are
 *ProductInfo* or *ProductData* are mean the same.
 *Info* and *Data* are like Noise words like *a*, *an* and *the*.
 
-###The word 'variable', 'table', 'string' should never appear in a variable name.
+> Rule: *The word 'variable', 'table', 'string' should never appear in a variable name.*
 
 Examples: CustomerTable, errorString, firstVariable ...
 
-###Distinguish names in such a way that the reader knows what the differences offer
+Distinguish names in such a way that the reader knows what the differences offer
 
 There is a class Customer and a CustomerObject what is the distinct
 
@@ -58,7 +60,7 @@ There is a class Customer and a CustomerObject what is the distinct
     account is -"- from accountData
     theMessage is -"- from message
 
-###Create searchable names
+###Use searchable names
 
     for (int j=0; j<34; j++)
     {
