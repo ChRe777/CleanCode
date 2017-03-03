@@ -49,7 +49,10 @@ Bad examples are
 
 > Rule: *The word 'variable', 'table', 'string' should never appear in a variable name.*
 
-Examples: CustomerTable, errorString, firstVariable ...
+Examples are
+- customerTable
+- errorString
+- countVariable
 
 Distinguish names in such a way that the reader knows what the differences offer
 
