@@ -82,25 +82,35 @@ There is a class Customer and a CustomerObject what is the distinct
     
     Use ShapeFactory and ShapeFactoryImp instead of IShapeFactory and ShapeFactory
     
-> Rule: Avoid Mental Mapping
+> Rule: *Avoid Mental Mapping*
 
-> Rule: Class Names
+> Rule: *Class Names*
 
-> Rule: Method Names
+> Rule: *Method Names*
 
-> Rule: Don't be cute
+> Rule: *Don't be cute*
 
-> Rule: Pick One Word per Concept
+> Rule: *Pick One Word per Concept*
 
-> Rule: Don't Pun
+> Rule: *Don't Pun*
 
-> Rule: Use Solution Domain Names
+Do not use the same word for instance *add* for different things.
 
-> Rule: Use Problem Domain Names
+do not use add if you mean insert
+do nit use add if you mean append
 
-> Rule: Add Meaningful Context
+> Rule: *Use Solution Domain Names*
 
-> Rule: Don't Add Gratuitous Context
+Uses computer science terms, algorithm names, patterns name, math terms and so on.
+People who read your code are programmers.
+
+AccountVisitor, JobQueue people should know what that means.
+
+> Rule: *Use Problem Domain Names*
+
+> Rule: *Add Meaningful Context*
+
+> Rule: *Don't Add Gratuitous Context*
 
 Dont not use a prefix for every class NSString NS for NextStep
 
