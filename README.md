@@ -1,11 +1,11 @@
 # Clean Code
 
-## Notes
+Some Notes:
 
     People should enjoy coding.
     People should can read code.
 
-### Meanful Names
+## Meanful Names
 
 > Rule: *Use intention-revealing names*
 
@@ -17,7 +17,7 @@
     int daysSinceCreation;
     int daysSinceModification;
 
-> Rule: *Avoid disinformation.*
+##Avoid disinformation
 
 Do not say *accountList* for grouping of accounts, say *accountGroup* or *accounts* for instance.
 
@@ -35,8 +35,7 @@ Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
     public static copyChars(char[] a1, char[] a2) { ... }
     public statix copyChars(char[] source, char[] destination) { ... }
 
-
-> Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
+##Avoid words like 'Manager', 'Processor', 'Data' or 'Info'
  
 Bad examples are
 - LayerManager
@@ -46,11 +45,11 @@ Bad examples are
 *ProductInfo* or *ProductData* are mean the same.
 *Info* and *Data* are like Noise words like *a*, *an* and *the*.
 
-> Rule: *The word 'variable', 'table', 'string' should never appear in a variable name.*
+##The word 'variable', 'table', 'string' should never appear in a variable name.
 
 Examples: CustomerTable, errorString, firstVariable ...
 
-> Rule: *Distinguish names in such a way that the reader knows what the differences offer*
+##Distinguish names in such a way that the reader knows what the differences offer
 
 There is a class Customer and a CustomerObject what is the distinct
 
@@ -59,7 +58,7 @@ There is a class Customer and a CustomerObject what is the distinct
     account is -"- from accountData
     theMessage is -"- from message
 
-> Rule: *Create searchable names*
+##Create searchable names
 
     for (int j=0; j<34; j++)
     {
@@ -74,7 +73,7 @@ There is a class Customer and a CustomerObject what is the distinct
     }     
         
 
-> Rule: *Avoid encoding*
+##Avoid encoding
 
     PhoneNumber phoneString; // name not changed if type changed
     
@@ -82,35 +81,35 @@ There is a class Customer and a CustomerObject what is the distinct
     
     Use ShapeFactory and ShapeFactoryImp instead of IShapeFactory and ShapeFactory
     
-> Rule: *Avoid Mental Mapping*
+##Avoid Mental Mapping
 
-> Rule: *Class Names*
+##Class Names
 
-> Rule: *Method Names*
+##Method Names
 
-> Rule: *Don't be cute*
+##Don't be cute
 
-> Rule: *Pick One Word per Concept*
+##Pick One Word per Concept
 
-> Rule: *Don't Pun*
+##Don't Pun
 
 Do not use the same word for instance *add* for different things.
 
 do not use add if you mean insert
 do nit use add if you mean append
 
-> Rule: *Use Solution Domain Names*
+##Use Solution Domain Names
 
 Uses computer science terms, algorithm names, patterns name, math terms and so on.
 People who read your code are programmers.
 
 AccountVisitor, JobQueue people should know what that means.
 
-> Rule: *Use Problem Domain Names*
+##Use Problem Domain Names
 
-> Rule: *Add Meaningful Context*
+##Add Meaningful Context
 
-> Rule: *Don't Add Gratuitous Context*
+##Don't Add Gratuitous Context
 
 Dont not use a prefix for every class NSString NS for NextStep
 
