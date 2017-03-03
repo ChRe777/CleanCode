@@ -39,29 +39,33 @@ Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
 
 > Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
  
-Bad examples are
-- LayerManager
-- ProductInfo
-- ProductData
+Bad examples are:
+
+    * LayerManager
+    * ProductInfo
+    * ProductData
 
 *ProductInfo* or *ProductData* are mean the same.
 *Info* and *Data* are like Noise words like *a*, *an* and *the*.
 
 > Rule: *The word 'variable', 'table', 'string' should never appear in a variable name.*
 
-Examples are
-- customerTable
-- errorString
-- countVariable
+Examples are:
+
+    * customerTable
+    * errorString
+    * countVariable
 
 Distinguish names in such a way that the reader knows what the differences offer
 
-There is a class Customer and a CustomerObject what is the distinct
+There is a class *Customer* and a *CustomerObject* what is the distinct?
 
-    moneyAmount is indistinguishable from money
-    customerInfo is -"- from customer
-    account is -"- from accountData
-    theMessage is -"- from message
+Examples are:
+
+    * moneyAmount is indistinguishable from money
+    * customerInfo is -"- from customer
+    * account is -"- from accountData
+    * theMessage is -"- from message
 
 ###Use searchable names
 
@@ -89,6 +93,15 @@ There is a class Customer and a CustomerObject what is the distinct
 ###Avoid Mental Mapping
 
 ###Class Names
+
+Classes and objects should have noun or noun phrases like
+
+    * Customer 
+    * WikiPage 
+    * Account 
+    * AdressParser
+
+Avoid words like *Manager*, *Processor*, *Calculator*, *Data* or *Info*
 
 ###Method Names
 
@@ -120,10 +133,10 @@ Dont not use a prefix for every class NSString NS for NextStep
 
 Do not use
 
-    customerAdress
-    accountAdress
+    * customerAdress
+    * accountAdress
 
-use
+but use
 
     PostalAdress for a postal adress
     Mac for a mac adress
