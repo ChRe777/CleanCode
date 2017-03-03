@@ -1,6 +1,6 @@
 # Clean Code
 
-Some Notes:
+## Personal Notes
 
     People should enjoy coding.
     People should can read code.
