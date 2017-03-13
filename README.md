@@ -5,6 +5,20 @@
     People should enjoy coding.
     People should can read code.
 
+## Tips
+
+### Keep it simple (is a must)
+
+If you realize that things get more and more complicated then its time to refactor.
+This is very important for your future survival. Keep it simple at every stage.
+And you have to believe that a very complex software can made out of simple building
+stone in every level.
+
+Think in lego term. Basis lego stones are simple stone. Imagine you build bigger
+stones out of smaller simple stones. The bigger stones are also simple. And then
+build with the bigger stone much bigger stones. They are again simple. But with
+this stone your building is growing fast.
+
 ## API Thinking
 
 Start to think more API-like. Create your classes for more then only one application.
