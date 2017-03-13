@@ -5,6 +5,20 @@
     People should enjoy coding.
     People should can read code.
 
+## API Thinking
+
+Start to think more API-like. Create your classes for more then only one application.
+Create a plugin concept on that API. Your API interface should be stable and not change
+to often.
+
+### Plugin
+
+Often successful software has the ability to extend the application by plugins or
+scripting languages. This is very important because you could not change the application
+if the users needs change in future. The core of the application should be stable and
+very generic designed. If you have a lot of experience over 20-30 years you will notice
+that many application works the same inside indepent of the domain of the application.
+
 ## Meanful Names
 
 ###Use intention-revealing names*
