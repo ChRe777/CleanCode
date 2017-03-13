@@ -19,6 +19,18 @@ if the users needs change in future. The core of the application should be stabl
 very generic designed. If you have a lot of experience over 20-30 years you will notice
 that many application works the same inside indepent of the domain of the application.
 
+## Think in Layers
+
+It is very important to seperate layers at least use 3 layers.
+Keep it as simple as possible.
+
+* Storage Layer
+* Business Layer (API)
+* User Interface Layer
+
+For instance a Business Layer and Storage Layer should be scriptable
+and work without any user interface (graphical or console or whatever).
+
 ## Meanful Names
 
 ###Use intention-revealing names*
@@ -55,9 +67,9 @@ Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
  
 Bad examples are:
 
-    * LayerManager
-    * ProductInfo
-    * ProductData
+* LayerManager
+* ProductInfo
+* ProductData
 
 *ProductInfo* or *ProductData* are mean the same.
 *Info* and *Data* are like Noise words like *a*, *an* and *the*.
@@ -66,9 +78,9 @@ Bad examples are:
 
 Examples are:
 
-    * customerTable
-    * errorString
-    * countVariable
+* customerTable
+* errorString
+* countVariable
 
 Distinguish names in such a way that the reader knows what the differences offer
 
@@ -76,10 +88,10 @@ There is a class *Customer* and a *CustomerObject* what is the distinct?
 
 Examples are:
 
-    * moneyAmount is indistinguishable from money
-    * customerInfo is -"- from customer
-    * account is -"- from accountData
-    * theMessage is -"- from message
+* moneyAmount is indistinguishable from money
+* customerInfo is -"- from customer
+* account is -"- from accountData
+* theMessage is -"- from message
 
 ###Use searchable names
 
@@ -110,10 +122,10 @@ Examples are:
 
 Classes and objects should have noun or noun phrases like
 
-    * Customer 
-    * WikiPage 
-    * Account 
-    * AdressParser
+* Customer 
+* WikiPage 
+* Account 
+* AdressParser
 
 Avoid words like *Manager*, *Processor*, *Calculator*, *Data* or *Info*
 
@@ -147,8 +159,8 @@ Dont not use a prefix for every class NSString NS for NextStep
 
 Do not use
 
-    * customerAdress
-    * accountAdress
+* customerAdress
+* accountAdress
 
 but use
 
