@@ -3,7 +3,9 @@
 ## Personal Notes
 
 * People should enjoy coding.
-* People should can read code.
+* People should can read the code.
+* People should can maintain the code.
+* The code should be envolve to smaller code base over the years with higher density.
 
 ## Tips
 
