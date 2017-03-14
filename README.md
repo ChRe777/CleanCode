@@ -2,10 +2,15 @@
 
 ## Personal Notes
 
-    People should enjoy coding.
-    People should can read code.
+* People should enjoy coding.
+* People should can read code.
 
 ## Tips
+
+### Design
+
+Design error always leads to unclean code. Clean design is import.
+Design before start coding. Have a clear simple design. Not overcomplicate things at start time.
 
 ### Keep it simple (is a must)
 
