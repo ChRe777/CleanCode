@@ -11,11 +11,14 @@
 
 ### Source Control System
 
-In old source control system you could look a file if you edit it and another
-could not edit this file at the same time. If you create clean code you should
-have small class or files. Why you ever need to mess around in others class 
-at the same and then handle complicated merge conflicts, where you possible
-build in error or break others code.
+In old source control system you could choose the option that a file is locked
+during editing and another one could not edit this file at the same time. 
+So if you wanted to edit the same file you have to talk with this person.
+The advantages is that communication between developers are triggered.
+
+If you create clean code you should have small class or files. Why you ever need 
+to mess around in others classes at the same time and then handle complicated merge conflicts, 
+where you possible build in errors or break others code.
 
 ### Design
 
