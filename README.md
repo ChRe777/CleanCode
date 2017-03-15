@@ -65,7 +65,7 @@ and work without any user interface (graphical or console or whatever).
 
 ## Meanful Names
 
-###Use intention-revealing names*
+### Use intention-revealing names*
 
 
     int d; // elapsed time in days
@@ -75,7 +75,7 @@ and work without any user interface (graphical or console or whatever).
     int daysSinceCreation;
     int daysSinceModification;
 
-###Avoid disinformation
+### Avoid disinformation
 
 Do not say *accountList* for grouping of accounts, say *accountGroup* or *accounts* for instance.
 
@@ -93,7 +93,7 @@ Or use *rowIndex* or *columnIndex* instead of *i* and *j*.
     public static copyChars(char[] a1, char[] a2) { ... }
     public statix copyChars(char[] source, char[] destination) { ... }
 
-###Make Meaningful Distinctions
+### Make Meaningful Distinctions
 
 > Rule: *Avoid words like 'Manager', 'Processor', 'Data' or 'Info'*
  
@@ -125,7 +125,7 @@ Examples are:
 * account is -"- from accountData
 * theMessage is -"- from message
 
-###Use searchable names
+### Use searchable names
 
     for (int j=0; j<34; j++)
     {
@@ -140,7 +140,7 @@ Examples are:
     }     
         
 
-###Avoid encoding
+### Avoid encoding
 
     PhoneNumber phoneString; // name not changed if type changed
     
@@ -148,9 +148,9 @@ Examples are:
     
     Use ShapeFactory and ShapeFactoryImp instead of IShapeFactory and ShapeFactory
     
-###Avoid Mental Mapping
+### Avoid Mental Mapping
 
-###Class Names
+### Class Names
 
 Classes and objects should have noun or noun phrases like
 
@@ -161,31 +161,31 @@ Classes and objects should have noun or noun phrases like
 
 Avoid words like *Manager*, *Processor*, *Calculator*, *Data* or *Info*
 
-###Method Names
+### Method Names
 
-###Don't be cute
+### Don't be cute
 
-###Pick One Word per Concept
+### Pick One Word per Concept
 
-###Don't Pun
+### Don't Pun
 
 Do not use the same word for instance *add* for different things.
 
 do not use add if you mean insert
 do nit use add if you mean append
 
-###Use Solution Domain Names
+### Use Solution Domain Names
 
 Uses computer science terms, algorithm names, patterns name, math terms and so on.
 People who read your code are programmers.
 
 AccountVisitor, JobQueue people should know what that means.
 
-###Use Problem Domain Names
+### Use Problem Domain Names
 
-###Add Meaningful Context
+### Add Meaningful Context
 
-###Don't Add Gratuitous Context
+### Don't Add Gratuitous Context
 
 Dont not use a prefix for every class NSString NS for NextStep
 
