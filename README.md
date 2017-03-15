@@ -188,4 +188,11 @@ but use
     PostalAdress for a postal adress
     Mac for a mac adress
     URI for a web adress
+    
+## Functions
+
+* Functions should be small
+* Functions doing one thing
+* Functions represent one level of abstraction
+
 
