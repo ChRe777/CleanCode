@@ -1,5 +1,10 @@
 # Clean Code
 
+Every rule in clean code is based on two rules:
+
+* Keep it simple as possible
++ Do it with love
+
 ## Personal Notes
 
 * People should enjoy coding.
@@ -202,8 +207,19 @@ but use
     
 ## Functions
 
+### Summary
+
 * Functions should be small
 * Functions doing one thing
+* Functions have descriptive names
++ Functions should name with a verb-noun pair
+* Functions arguments should one or max two
 * Functions represent one level of abstraction
+* Functions should have an input and return an output
+
+### Examples
+
+
+
 
 
