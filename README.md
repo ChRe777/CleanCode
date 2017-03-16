@@ -13,8 +13,14 @@ a keep it simple thinking one. But this can be done.
 
 ## Reasons for unclean code
 
+* Time pressure
+* Unclean enviroment
+* Existing unclean code you have to work with
+* Unprofessionell authority or enviroment
+
 Many people are under pressure at work so they do their
 work not in love, but we fear what is the opposite of love.
+
 Some my work in the branch for money and not called to ne
 in that job. So it is hard for them and they are always
 struggeling.
