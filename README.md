@@ -259,8 +259,17 @@ Functions convert, create, change, add, delete, ...
 
 deleteKey, addPage, renderHtml, createPoint, convertInteger, ...
 
+Point:
+
+createPoint, deletePoint (= inverse of createPoint)
+movePoint  (change)
+point.setX (change)
+point.getX (do not change)
+
+convertInteger (change from a to b)
+
 Functions converting nouns.
-Functions creating objects.
+Functions creating objects/nouns.
 Functions changing (= action/verbs) state of system (= nouns).
 
 
