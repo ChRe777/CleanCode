@@ -11,6 +11,8 @@ how your mindset is configured. So this is a thing to
 overcome to change your thinking from complicated one to
 a keep it simple thinking one. But this can be done.
 
+## Reasons for unclean code
+
 Many people are under pressure at work so they do their
 work not in love, but we fear what is the opposite of love.
 Some my work in the branch for money and not called to ne
