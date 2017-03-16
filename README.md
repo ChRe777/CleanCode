@@ -82,7 +82,7 @@ and work without any user interface (graphical or console or whatever).
 
 ## Meanful Names
 
-### Use intention-revealing names*
+### Use intention-revealing names
 
 
     int d; // elapsed time in days
