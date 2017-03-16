@@ -218,17 +218,17 @@ but use
     
 ## Functions
 
-Functions area verbs and classes are nouns.
-Functions have a hierarchy. 
+Functions area *verbs* and classes are *nouns*.
+Functions have a *hierarchy*. 
 
-Each level in that hierarchy is a level of abstraction.
+Each level in that hierarchy is a *level of abstraction*.
 
-It is a tree of functions that tell a story. [Picture of a Tree]
+It is a *tree of functions* that tell a story. [Picture of a Tree]
 
-Basically you use function to create a language with your own verbs and noun to
-tell the story of what is going on the programm.
+Basically you use function to *create a language* with your own verbs and noun to
+*tell the story* of what is going on the programm.
 
-if you follow the ruls your functions will be *short*, *well namend* and *nicely organized*.
+If you follow the rules your functions will be *short*, *well namend* and *nicely organized*.
 
 ### Rules
 
