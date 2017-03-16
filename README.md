@@ -235,7 +235,7 @@ If you follow the rules your functions will be *short*, *well namend* and *nicel
 * Functions should be small
 * Functions doing one thing
 * Functions have descriptive names
-+ Functions should name with a verb-noun pair
+* Functions should name with a verb-noun pair
 * Functions arguments should one or max two
 * Functions represent one level of abstraction
 * Functions should have an input and return an output - y = f(x)
