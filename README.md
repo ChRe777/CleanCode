@@ -26,6 +26,10 @@ struggeling.
 
 ## Tips
 
+### Attitude
+
+Writing clean code has to do with your attitude. Everything can be learned.
+
 ### Source Control System
 
 In old source control system you could choose the option that a file is locked
