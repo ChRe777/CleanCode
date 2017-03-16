@@ -230,11 +230,14 @@ Basically you use function to *create a language* with your own verbs and noun t
 
 If you follow the rules your functions will be *short*, *well namend* and *nicely organized*.
 
-### Just do it without fear
+### Just do it (without fear)
 
-Write first a function the breaks of the rules and then redesign until it follows the rules.
+Write first a unclean function that breaks all the rules and 
+then redesign until it follows the rules.
+
 Writing good function is an ongoing learning process.
 Write the functions how good to you can to follow the rules. 
+
 Rewrite the functions until it follows the rules.
 
 Write a big function. Rewrite it by extract functions. 
