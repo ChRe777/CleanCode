@@ -3,7 +3,19 @@
 Every rule in clean code is based on two rules:
 
 * Keep it simple as possible
-+ Do it with love
+* Do it with love
+
+Keep it simple seems to be hard for many people because
+they learned/trained to think complicated. It is a matter
+how your mindset is configured. So this is a thing to
+overcome to change your thinking from complicated one to
+a keep it simple thinking one. But this can be done.
+
+Many people are under pressure at work so they do their
+work not in love, but we fear what is the opposite of love.
+Some my work in the branch for money and not called to ne
+in that job. So it is hard for them and they are always
+struggeling.
 
 ## Personal Notes
 
