@@ -1,3 +1,10 @@
+Links for Publish to Website
+
+https://ghost.org/signup/one/
+https://blog.ghost.org/markdown/
+
+--
+
 # Clean Code
 
 Every rule in clean code is based on two rules:
