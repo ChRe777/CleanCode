@@ -84,7 +84,6 @@ and work without any user interface (graphical or console or whatever).
 
 ### Use intention-revealing names
 
-
     int d; // elapsed time in days
     d ... means nothing instead use
 
@@ -243,14 +242,18 @@ if you follow the ruls your functions will be *short*, *well namend* and *nicely
 
 ### Examples
 
-function int[] addNumber(int number) {
-    return numbers.add(number);
-}
+    function int[] addNumber(int number) {
+        return numbers.add(number);
+    }
 
 if you have to pass more then one parameter make a class (noun).
 if you have to return more then one parameter make a class (noun).
 
-For instance a simple sinusAlpha = sin(alpha). Turns an angle the sinus of that angle.
+For instance a simple sinus function
+
+    sinusAlpha = sin(alpha)
+    
+turns an angle the sinus of that angle.
 
 Functions convert, create, change, add, delete, ...
 
