@@ -219,7 +219,19 @@ but use
     
 ## Functions
 
-### Summary
+Functions area verbs and classes are nouns.
+Functions have a hierarchy. 
+
+Each level in that hierarchy is a level of abstraction.
+
+It is a tree of functions that tell a story. [Picture of a Tree]
+
+Basically you use function to create a language with your own verbs and noun to
+tell the story of what is going on the programm.
+
+if you follow the ruls your functions will be *short*, *well namend* and *nicely organized*.
+
+### Rules
 
 * Functions should be small
 * Functions doing one thing
@@ -227,10 +239,26 @@ but use
 + Functions should name with a verb-noun pair
 * Functions arguments should one or max two
 * Functions represent one level of abstraction
-* Functions should have an input and return an output
+* Functions should have an input and return an output - y = f(x)
 
 ### Examples
 
+function int[] addNumber(int number) {
+    return numbers.add(number);
+}
+
+if you have to pass more then one parameter make a class (noun).
+if you have to return more then one parameter make a class (noun).
+
+For instance a simple sinusAlpha = sin(alpha). Turns an angle the sinus of that angle.
+
+Functions convert, create, change, add, delete, ...
+
+deleteKey, addPage, renderHtml, createPoint, convertInteger, ...
+
+Functions converting nouns.
+Functions creating objects.
+Functions changing (= action/verbs) state of system (= nouns).
 
 
 
