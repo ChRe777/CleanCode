@@ -18,7 +18,7 @@ how your mindset is configured. So this is a thing to
 overcome to change your thinking from complicated one to
 a keep it simple thinking one. But this can be done.
 
-## Reasons for unclean code
+## Reasons (or excuses) for unclean code
 
 * Time pressure
 * Unclean enviroment
@@ -60,6 +60,10 @@ where you possible build in errors or break others code.
 
 Design error always leads to unclean code. Clean design is import.
 Design before start coding. Have a clear simple design. Not overcomplicate things at start time.
+
+Code should be abstract and have rules in it. If your code have only exceptions of this rules
+then you can not abstract it and the code will ugly and unclean. Unclean code is often a sign
+for unclean design, unclean concept, unclean requirments. Tracing the root of the problem.
 
 ### Keep it simple (is a must)
 
