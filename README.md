@@ -309,6 +309,40 @@ Functions converting nouns.
 Functions creating objects/nouns.
 Functions changing (= action/verbs) state of system (= nouns).
 
+# Comments
+
+## Experience
+
+I also believe that code should be mostly self explaning.
+
+Comments are often used to create a documentation of an API.
+
+My experience is that example in this Developer Network API
+Documentation leads to unclean code. Because they are based
+on to simple examples. Where for instance the whole code of
+a DB layer, a Controller or Presenter or View Logic code is
+all together in the view for instance inside a handler of
+a command clich event. A young developer my think that is the
+way we should write code and end up in a mess. Because
+later we learn you use for instance a MVC or MVP Patter or
+what ever to oranize our code, that it is seperate in different
+layer or classes.
+
+## Misleading comments
+
+I agree that it is better to name the function in the way
+that you know what this function is doing then to write
+a comment above the funciton. That's why a function
+should do only one thing. Otherwise your function name must
+be very very long :-) and explain all the things it is doing
+in a very long name.
+
+
+
+
+
+
+
 
 
 
