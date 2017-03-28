@@ -311,7 +311,10 @@ Functions changing (= action/verbs) state of system (= nouns).
 
 # Comments
 
-## Experience
+Comments in the code are not api documentation of methods
+or functions.
+
+## Experience - API Documentation
 
 I also believe that code should be mostly self explaning.
 
@@ -336,6 +339,8 @@ a comment above the funciton. That's why a function
 should do only one thing. Otherwise your function name must
 be very very long :-) and explain all the things it is doing
 in a very long name.
+
+
 
 
 
