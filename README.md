@@ -9,18 +9,16 @@ Links for Publish to Website
 
 ## Prologue
 
-It must be clear said that unclean code is a fruit of a root
-that produce unclean code. This site give some hints to clean up
-your code. But you also have to deal why this happen. You
-have to find the root of this problem. 
+It must be clear said that unclean code is a fruit (of a problem). This site give some hints to clean up your code, but you also have to deal with why that happened. 
 
-Int the book "The Psychology of Computer Programming" from Author Gerald M. Weinberg
-is a good book that deals with problems in teama. Programming is social ativity of a 
-group of people with different kind of skills, but especially behaviours that has
-nothing to with coding.
+You have to find the root of this problem, otherwise you cleanup code and perhaps new unclean code will come back.
+In the book "The Psychology of Computer Programming" from Author Gerald M. Weinberg is a good book that deals with some subjects.
 
-"Egoless programming" is a style of computer programming in which personal 
-factors are minimized so that quality may be improved
+"Programming is social ativity of a  group of people with different kind of skills,  but especially with different human behaviours that has nothing to with coding."
+
+In this book Weinberg created a subject "Egoless programming".
+
+This is a style of computer programming in which personal factors are minimized so that quality may be improved.
 
 ## Rules
 
