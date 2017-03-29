@@ -314,6 +314,11 @@ Functions changing (= action/verbs) state of system (= nouns).
 Comments in the code are not api documentation of methods
 or functions.
 
+## Reason for Comments
+
+* Your function does not do what they say they do in their name
+* Peace of code does not do what they say they do in their name
+
 ## Experience - API Documentation
 
 I also believe that code should be mostly self explaning.
