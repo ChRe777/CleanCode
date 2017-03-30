@@ -71,6 +71,18 @@ If you create clean code you should have small class or files. Why you ever need
 to mess around in others classes at the same time and then handle complicated merge conflicts, 
 where you possible build in errors or break others code.
 
+### Rigid body
+
+Every software should be envolvable and for this it is need some that
+is solid(rigid) like bones in a body and something the is soft and flexible
+like your flesh and joints. Joints help to be flexible.
+If you have no stable API or stable classes which give your application
+the stability, you change no envolve (be flexible and be bending) if the
+situation around the application is changing.
+I worked in a project where this datastructure and classes that should
+be stable are always changed in each release. So your software always loose
+stability. Which brings stress to the whole team and the POs and bosses.
+
 ### Design
 
 Design error always leads to unclean code. Clean design is import.
