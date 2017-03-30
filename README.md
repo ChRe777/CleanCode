@@ -56,6 +56,14 @@ struggeling.
 
 ## Tips
 
+### Bugs
+
+A lot of bugs a also a fruit or a sign that your application is not healthy
+or unclean. Like in a unclean building where bugs (for instance cockroach) 
+can grow easily. A log of bugs that come again back for instance from branching
+and merging is a sign of unstable core classes. Your software has not rigid body
+(no stable bones).
+
 ### Attitude
 
 Writing clean code has to do with your attitude. Everything can be learned.
