@@ -7,6 +7,12 @@ Links for Publish to Website
 
 # Clean Code
 
+## My Service
+
+I can take a program with a lot of messed up and complicated code and simplify it and still run efficiently.
+
+With this website you can learn it to do it yourself. Or you let me do it for you and I charge you per line of code.
+
 ## Prologue
 
 It must be clear said that unclean code is a fruit (of a problem). This site give some hints to clean up your code, but you also have to deal with why that happened. 
