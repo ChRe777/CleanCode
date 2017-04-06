@@ -7,9 +7,8 @@
 
 ## Static Website Generator
 
-mordern static website generator
-
-https://www.google.at/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwje5svRr5DTAhVFDMAKHfMfAy4QFggfMAA&url=https%3A%2F%2Fwww.staticgen.com%2F&usg=AFQjCNFFCp8ghgsRKNVx8SfFGhDYD10mEg&sig2=RHpql1KL75nuGnEj7Mt71Q
+modern static website generator
 
 * https://www.staticgen.com/ (Top 10)
 * https://gohugo.io
+* https://hexo.io/docs/deployment.html
