@@ -118,6 +118,13 @@ Start to think more API-like. Create your classes for more then only one applica
 Create a plugin concept on that API. Your API interface should be stable and not change
 to often.
 
+An api is the stable part of your system, where plugin or other classes the flexible part
+application. To survive you need like your body stable bones and flexible parts to change
+if the situation changes.
+
+Today in agile enviroment we change everything everytim what make the system unstable
+because there is no stable core anymore.
+
 ### Plugin
 
 Often successful software has the ability to extend the application by plugins or
@@ -380,6 +387,41 @@ should do only one thing. Otherwise your function name must
 be very very long :-) and explain all the things it is doing
 in a very long name.
 
+## Objects and data structures
+
+Objects hides data and expose behavior.
+Data structure expose data and have no behavior.
+
+o = Lambda(o)
+
+### Law of Demeter
+
+A module should not know about the innards of the *objects* it manipulates.
+
+A method *f* of class *C* only call:
+
+- (a) *C*
+- (b) An object created by *f*
+- (c) An object passed as an argument to *f*
+- (d) An object held in an instance variable of *C*
+
+class C
+{
+    obj instVar
+
+    func f(arg)
+    {
+        this.g()    // (a)
+        arg.A       // (c)
+        instVar     // (d)
+    }
+    
+    func g(arg)
+    {
+        var obj = f(arg) // (b)
+        f(obj)   
+    }
+}
 
 
 
