@@ -425,6 +425,20 @@ A method *f* of class *C* only call:
 
 # Error Handling
 
+A software is basically a set of rules.
+Every rule has exceptions of that rules.
+
+Or we can says a software have a normal flow and
+if something exceptional happens with have to deal with
+that otherwise our software will not very robust.
+
+The software will not survive and fall into a state
+where we have to restart the software.
+
+A robust software *have to* deal with things that went wrong. 
+Per definition if something can went wrong and you can not deal
+with that you are not good in survival.
+
 ## NULL
 
 What is the problem with NULL which is so common in most language.
