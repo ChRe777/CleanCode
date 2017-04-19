@@ -481,7 +481,10 @@ if the variable you pass is a reference type or a value type.
 So in the old days in C++ you have to check in the beginning
 of a function of the variable is NULL before you access a
 method or property of the object. Otherwise you fall on the nose
-and the program abort.
+and the program abort. Which does not lead to very robust software right?
+
+I often say if God has build our body like with build software, we
+all will not survive very long.
 
 
 
