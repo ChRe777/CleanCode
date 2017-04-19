@@ -438,8 +438,8 @@ But basically it is a value that has no type and has too much meanings.
 
 ### Don't *Return* NULL
 
-This is what we all do right?
-Do you believe it is ok to return NULL Pointer?
+* This is what we all do right?
+* Do you believe, if it is ok to return NULL Pointer?
 
 Normally we want to pass a special state. I want
 to give back on object or an state that object is not there.
@@ -472,8 +472,8 @@ Instead of NULL to a List return an empty List.
 
 ### Don't *Pass* NULL
 
-This is what we all also do right?
-Do you believe if is ok to pass NULL Pointer?
+* This is what we all also do right?
+* Do you believe, if it is ok to pass NULL Pointer?
 
 What I saw with modern languages you even do not see
 if the variable you pass is a reference type or a value type.
