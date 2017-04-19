@@ -405,23 +405,88 @@ A method *f* of class *C* only call:
 - (c) An object passed as an argument to *f*
 - (d) An object held in an instance variable of *C*
 
-class C
-{
-    obj instVar
+    class C
+    {
+        obj instVar
 
-    func f(arg)
-    {
-        this.g()    // (a)
-        arg.A       // (c)
-        instVar     // (d)
-    }
+        func f(arg)
+        {
+            this.g()    // (a)
+            arg.A       // (c)
+            instVar     // (d)
+        }
     
-    func g(arg)
-    {
-        var obj = f(arg) // (b)
-        f(obj)   
+        func g(arg)
+        {
+            var obj = f(arg) // (b)
+            f(obj)   
+        }
+    }
+
+# Error Handling
+
+## NULL
+
+What is the problem with NULL which is so common in most language.
+
+I think this is best explained[^2] by the Inventor Tony Hoare[^1] himself.
+
+But basically it is a value that has no type and has too much meanings.
+
+[^1] https://de.wikipedia.org/wiki/Tony_Hoare
+[^2] https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare
+
+### Don't *Return* NULL
+
+This is what we all do right?
+Do you believe it is ok to return NULL Pointer?
+
+Normally we want to pass a special state. I want
+to give back on object or an state that object is not there.
+
+For instance in a factory you create objects but for one
+reason you could not create the object and what you want give
+back is the information you could not create the object.
+Because input parameters are not valid of an error our whatever.
+
+class Car
+{
+    Color Color;
+    int   Wheels;
+}
+
+class SpecialCar : Car
+{
+}
+
+class EmptyCar : Car
+{
+    EmptyCar 
+    { 
+        Color = transparent; // invisible - A car that is not made is can not be seen
+        Wheels = 0;
     }
 }
+
+Instead of NULL to a List return an empty List.
+
+### Don't *Pass* NULL
+
+This is what we all also do right?
+Do you believe if is ok to pass NULL Pointer?
+
+What I saw with modern languages you even do not see
+if the variable you pass is a reference type or a value type.
+
+So in the old days in C++ you have to check in the beginning
+of a function of the variable is NULL before you access a
+method or property of the object. Otherwise you fall on the nose
+and the program abort.
+
+
+
+
+
 
 
 
