@@ -67,6 +67,8 @@ and merging is a sign of unstable core classes. Your software has not rigid body
 ### Attitude
 
 Writing clean code has to do with your attitude. Everything can be learned.
+Some people believe that thre unclean code is ok and it is hard to change
+their minds. So your attitude and willigness to change is very important.
 
 ### Source Control System
 
