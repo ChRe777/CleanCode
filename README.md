@@ -502,6 +502,18 @@ and the program abort. Which does not lead to very robust software right?
 I often say if God has build our body like with build software, we
 all will not survive very long.
 
+## *Unit* testing
+
+The most important part if you want to have unit tests, you need to learn units.
+A unit is a small part (like an electronic) that has a define input and output.
+To make this happen it is really important to keep a unit small and simple.
+I say this again keep it simple. Most people can not keep things simple because
+of their complicated tinking mind set. If you learned over the year to think
+complicated that this is normal for you and you can not think a simple way anymore.
+Even if you want. You have to unlearn many things and must give your brain cells
+a fresh start. By put all your think away what you know and put it on the self.
+Then start fresh like someone you does not understand.
+
 
 
 
