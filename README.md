@@ -40,6 +40,7 @@ a keep it simple thinking one. But this can be done.
 * Existing unclean code you have to work with
 * Unprofessionell authority or enviroment
 * Everyone code like he wants - Slang programming
+* Untalented
 
 Many people are under pressure at work so they do their
 work not in love, but we fear what is the opposite of love.
@@ -63,6 +64,10 @@ That why he a standards in language and we should also have
 standard in programming. Not only how to write functions
 but also how to right and design an application in general.
 
+If you find out that you have no talent to write clean code
+perhaps you have no calling on your life to be a programmer.
+If I not talented in singing I can train myself how much I
+want but I will never be a good singer.
 
 ## Personal Notes
 
