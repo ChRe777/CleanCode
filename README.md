@@ -39,6 +39,7 @@ a keep it simple thinking one. But this can be done.
 * Unclean enviroment
 * Existing unclean code you have to work with
 * Unprofessionell authority or enviroment
+* Everyone code like he wants - Slang programming
 
 Many people are under pressure at work so they do their
 work not in love, but we fear what is the opposite of love.
@@ -46,6 +47,22 @@ work not in love, but we fear what is the opposite of love.
 Some my work in the branch for money and not called to ne
 in that job. So it is hard for them and they are always
 struggeling.
+
+If you have 5 programmer and give them the same requirements
+for a simple task you get probably the 5 different solutions.
+Even when you have the same language used and the same
+enviroment.
+
+I compare it with "pitching" english. Every group create
+his own slang to communicate. But if you have a single
+programmer that has his own slang, it is later hard to
+grow up with new people because they are not used of this
+programming slang.
+
+That why he a standards in language and we should also have
+standard in programming. Not only how to write functions
+but also how to right and design an application in general.
+
 
 ## Personal Notes
 
