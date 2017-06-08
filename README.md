@@ -49,6 +49,27 @@ You need to train and train it consciously until it goes into you subconscious m
 So most people never learned how to write proper code (class, methods, functions) they are basically learned it autodidact. 
 They read some book but never exercise it proper. By only rewrite a proper code that already.
 
+## Solution 
+
+Do it write and slow.
+Look how other API have done. Better to copy then to fall into a trap.
+Be a deciple of some other code style.
+
+## API
+
+Write an open, extensional, flexible API.
+
+If you have coders after they are must write in you style
+other the code does not work.
+Write a good documentation. The best way to teach is giving very
+good example. Not only simple examples (like MDNs of languages or frameworks) 
+but real and good pratical examples. Show the write how you wrote proper code
+be open. Not hide it from others.
+
+## Hindrances to overcome
+
+* Bad Authorities at work or at school (but you can learn yourself at home)
+* Lazyness (you know you are wrong, but you does not want to change and pay the price to change)
 
 ## Reasons (or excuses) for unclean code
 
