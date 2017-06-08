@@ -1,6 +1,8 @@
 
 # Clean Code
 
+This is not theory. This came from pratical working.
+
 ## My Service
 
 I can take a program with a lot of messed up and complicated code and simplify it and still run efficiently.
@@ -54,7 +56,7 @@ They read some book but never exercise it proper. By only rewrite a proper code 
 Do it write and slow. Look how other API have done. 
 
 Better to copy good then to fall into a trap. 
-Be a deciple of some other a good code(er(s)).
+Be a disciple of some other a good code(er(s)).
 
 ## API
 
