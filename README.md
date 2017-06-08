@@ -51,9 +51,10 @@ They read some book but never exercise it proper. By only rewrite a proper code 
 
 ## Solution 
 
-Do it write and slow.
-Look how other API have done. Better to copy then to fall into a trap.
-Be a deciple of some other code style.
+Do it write and slow. Look how other API have done. 
+
+Better to copy good then to fall into a trap. 
+Be a deciple of some other a good code(er(s)).
 
 ## API
 
