@@ -59,8 +59,8 @@ Be a deciple of some other code style.
 
 Write an open, extensional, flexible API.
 
-If you have coders after they are must write in you style
-other the code does not work.
+If you have follower coders after you, they are must write in youe style.
+Otherwise the software should does not work. Have an internal code and a public API.
 Write a good documentation. The best way to teach is giving very
 good example. Not only simple examples (like MDNs of languages or frameworks) 
 but real and good pratical examples. Show the write how you wrote proper code
@@ -68,8 +68,10 @@ be open. Not hide it from others.
 
 ## Hindrances to overcome
 
+* Attitude to be willingness to change and understand what I do is not good
 * Bad Authorities at work or at school (but you can learn yourself at home)
 * Lazyness (you know you are wrong, but you does not want to change and pay the price to change)
+
 
 ## Reasons (or excuses) for unclean code
 
