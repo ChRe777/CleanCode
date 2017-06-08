@@ -33,6 +33,23 @@ how your mindset is configured. So this is a thing to
 overcome to change your thinking from complicated one to
 a keep it simple thinking one. But this can be done.
 
+## Main Reason
+
+"You already know what I want you to know."
+
+I compare it with learn to write a proper letters in school in your first class.
+A teacher you knows how to write proper letters teach you how to write proper letters.
+You get a class book where you can see how proper letter looks like. So you know the end result.
+And you exercise to write proper letters by drawing it over a template letter in your book.
+On an exercise sheet you repaint a semitransparent letter. And you do this very often.
+
+The reason for that it that your brain is a neuronal network. 
+You need to train and train it consciously until it goes into you subconscious mind.
+
+So most people never learned how to write proper code (class, methods, functions) they are basically learned it autodidact. 
+They read some book but never exercise it proper. By only rewrite a proper code that already.
+
+
 ## Reasons (or excuses) for unclean code
 
 * Time pressure
