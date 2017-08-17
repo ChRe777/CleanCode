@@ -73,6 +73,10 @@ https://en.wikipedia.org/wiki/Kowloon_Walled_City
 They build and build and build and the end result has to be destroyed from goverment because
 it is dangerous to live there.
 
+A Plan is important to have an overview. Otherwise you end in a mess and feel lost in the cost.
+If the many people over many years work on a software without plan then the end result is a
+"Kowloon Walled City"-like software.
+
 ## API
 
 Write an open, extensional, flexible API.
