@@ -77,6 +77,19 @@ A Plan is important to have an overview. Otherwise you end in a mess and feel lo
 If the many people over many years work on a software without plan then the end result is a
 "Kowloon Walled City"-like software.
 
+A plan should have different kind of levels in detail. For instance a blockdiagram
+of the components. And then this components as extra plan in more details. You go
+from the big overview in to next level of details and the next and so on.
+
+## Architecture
+
+For a rough plan or architecture you can google for instance
+ - Multitier architecture
+ - Client–server model
+
+Please do not invent the wheel again. Find a good example with a good architecture and learn from
+the generation before. Do not fall into the trap you know how to build it.
+
 ## API
 
 Write an open, extensional, flexible API.
