@@ -58,6 +58,21 @@ Do it write and slow. Look how other API have done.
 Better to copy good then to fall into a trap. 
 Be a disciple of some other a good code(er(s)).
 
+## Knowing your business
+
+You also have to know your business. You can not write a good program or library, if you do not know
+what this program should do. If you can not do your business on paper, you can do write a proper program
+for that business.
+
+## Plan
+
+You need a plan. Each house is build with a plan. A plan is important that you know how the end result
+should look like. If you have no plan of the endresult you build another "Kowloon Walled City".
+https://en.wikipedia.org/wiki/Kowloon_Walled_City
+
+They build and build and build and the end result has to be destroyed from goverment because
+it is dangerous to live there.
+
 ## API
 
 Write an open, extensional, flexible API.
