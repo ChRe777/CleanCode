@@ -1,7 +1,7 @@
 
 # Clean Code
 
-![MySheep](shaun-sheep.png)
+![MySheep](shaun-sheep.jpg)
 
 This is not theory. This came from pratical working.
 
