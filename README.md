@@ -1,7 +1,7 @@
 
 # Clean Code
 
-![MySheep](shaun-sheep.jpg)
+![MySheep](shaun-sheep.jpg = 250x250)
 
 This is not theory. This came from pratical working.
 
