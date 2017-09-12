@@ -36,6 +36,12 @@ Means that you have all the information you need.
 
 Means that you know your business clearly.
 
+Write down all your needs and you wants. 
+It must be fully clear what you need and wants from the software.
+Software is only a tool that help (or hinder) you from doing your business needs.
+Know your business on paper. If you can not do your business of paper,
+how would you write a software that do help with your business.
+
 ### Unclean Thinkings
 
 Means you thoughts always complicated and confusing. If other listen to you they
