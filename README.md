@@ -1,6 +1,8 @@
 
 # Clean Code
 
+![MySheep](shaun-sheep.png)
+
 This is not theory. This came from pratical working.
 
 ## My Service
