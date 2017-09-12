@@ -22,6 +22,60 @@ In this book Weinberg created a subject "Egoless programming".
 
 This is a style of computer programming in which personal factors are minimized so that quality may be improved.
 
+## Tracing the root of unclean code
+
+[Clean Thinking] -> [Clean Design] -> [Clean Implementation] -> [Clean Code]
+
+Clean or unclean code is the fruit of the process from left to right.
+
+### Clean Thinking
+
+Means the you have clear simple thoughts that are not confusing.
+
+Means that you have all the information you need.
+
+Means that you know your business clearly.
+
+### Unclean Thinkings
+
+Means you thoughts always complicated and confusing. If other listen to you they
+do not understand you. Your communication is not clear and simple.
+
+Means that you only have a part of the neccessary information. Things are foggy
+and unclear in the design phase.
+
+Means you do not really know you business. You not really know what user need.
+You only make guesses. Your knowledge of your business is not clear. There
+are black unknown holes.
+
+### Clean Design
+
+If you have a clean pre-design phase about what you want to do if any
+kind of form. Like User Story or brain storming. You need to know
+all your wants and need other you can not start you design phase.
+
+### Unclean Design
+
+Your have unclear thoughts in the design phase. You guess. And
+then make design errors. Design often lead to weed seed code.
+Your code in the implemetation starts to spread out and get
+complicated. Every feature you build in later blow up you
+code. Like your weed is growing. 
+
+Sign if you build a feature you have to change all the
+time on 30 places for instance. Or you need to change
+30 existing classes and so on.
+
+### Clean Implementation
+
+Means to have to make a clean implementation.
+
+Patterns, Classes, Right Naming, Layers, ....
+Keep it simple. Most right ultra complicated software.
+Use the power Abstraction. Your implemetation should
+be simple. Readable. Not complicated.
+
+
 ## Rules
 
 Every rule in clean code is based on two rules:
