@@ -6,16 +6,21 @@ This topic sounds sarcastic, but it only address the issue that people
 work as software developer that not called to be a software developer.
 Then they are lacking on talents.
 
-## Role of talent or giftings
+## Role of talented (or gifted) person ##
 
-## Fixing the wrong thing!!
+Talents you can not learn, it is given as a gift to a person
+with a purpose. Some want to be software developer, but have no
+talents. You can not compensate missing talents with more
+education.
+
+## Fixing the wrong thing!! ##
 
 Car diesel pump example 1400€ compared to a small pump.
 
 To few software developer people. True, but not the truth.
 Leaders in all level are imcompetent.
 
-## Start with business layer, know your business
+## Start with business layer, know your business ##
 
 .. not user interface layer
 .. not backend layer / persistence layer
