@@ -12,10 +12,32 @@ Then they are lacking on talents.
 
 Car diesel pump example 1400€ compared to a small pump.
 
-## Start with business layer
+## Start with business layer, know your business
 
 .. not user interface layer
 .. not backend layer / persistence layer
+
+Software if often made in layers. Most used is a 3-layered-Architectur
+to seperate User Interface, Business Logic and Data Persistance.
+
+Some project start with an existing database and later build
+a user interface and business layer on it. This can lead to unclean load.
+
+Some start with the user interface and later make the business layer.
+
+My experience over years you have to start with the business first.
+You have to know you business. 
+
+Some do not know their business and want to make an application.
+If always use a house construction as metapher. If you do not
+know that kind of house you want how could you implement it.
+Some sit in meeting and says we want a house. Right a task
+build a house and next they implementation starts. Someone
+starts to build a house and when it is finished. Someone came
+and look at and says this is not exactly what we want. But you
+does not say how it should look. You only said build a house and
+I build one. If you know what you not want. Do you know what
+you want?
 
 ## Unclean factor
 
