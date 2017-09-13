@@ -30,6 +30,25 @@ to seperate User Interface, Business Logic and Data Persistance.
 
 Some project start with an existing database and later build
 a user interface and business layer on it. This can lead to unclean load.
+Because they are built in the wrong other.
+
+I does not like this king of picture
+[ User Interface Layer ]
+[    Business Layer    ]
+[     Data Layer       ]
+
+Your business is your center you are building around.
+From your business you can design your UI layer. 
+From your business you can design your data layer.
+Not the other way around.
+
+Your business and your business object, classes, services
+are your foundation of the building. It is the corner stone
+this has to be set in the right way. Then you can build up
+on top of this a persistance layer and a user interface.
+
+ [ User Interface Layer ]   [     Data Layer       ]
+                [    Business Layer    ]
 
 Some start with the user interface and later make the business layer.
 
