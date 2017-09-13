@@ -41,11 +41,19 @@ you want?
 
 ## Unclean factor
 
+Everything is multiplying. If you have an error in the design it costs
+you less to fiy, but this error costs a lot when you have in production.
+
 unclean information factor * unclean design factor * unclean impl factor * unclean 
 
-50% * 70% * 80% = 28% (of 100%)
+Clean/Unclean code = Information * Design * Test * Implementation
 
-The early you catch better it is.
+50% * 70% * 80% = 28% (of 100%) 
+
+Less then 50% its is unclean code.
+More then 50% it is clean code.
+
+The early you catch your "uncleaness" better it is.
 
 ## Costs
 
