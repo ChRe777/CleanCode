@@ -1,5 +1,18 @@
 # 13.09.2017 #
 
+## Unclean software leads to ...
+
+... burn out
+... frustration
+... confusing your brain
+... headache
+... stiff neck
+... muscle tension
+... dizzyness
+... fights at home
+... kill family (divorce)
+... and much more bad fruits
+
 ## Farmer boys and girl in the IT ##
 
 This topic sounds sarcastic, but it only address the issue that people
@@ -96,7 +109,7 @@ Production 	100x
 
 ## Mission
 
-String reduction of unclean software.
+Reduction of unclean software enviroments.
 
 ## iFixIt
 
