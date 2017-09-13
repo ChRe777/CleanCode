@@ -1,3 +1,94 @@
+# 13.09.2017 #
+
+## Farmer boys and girl in the IT ##
+
+This topic sounds sarcastic, but it only address the issue that people
+work as software developer that not called to be a software developer.
+Then they are lacking on talents.
+
+## Role of talent or giftings
+
+## Fixing the wrong thing!!
+
+Car diesel pump example 1400€ compared to a small pump.
+
+## Start with business layer
+
+.. not user interface layer
+.. not backend layer / persistence layer
+
+## Unclean factor
+
+unclean information factor * unclean design factor * unclean impl factor * unclean 
+
+50% * 70% * 80% = 28% (of 100%)
+
+The early you catch better it is.
+
+## Costs
+
+IBM System Science Institute says to find a bug in costs for instance
+1 Dollar and in production 100 Dollar.
+
+Design 		  1x
+Impl 		 10x
+Testing 	 15x
+Production 	100x
+
+## Mission
+
+String reduction of unclean software.
+
+## iFixIt
+
+iCleanUp for software is that was is iFixit for hardware
+
+Repair your thinking phase (collecting information). 
+Repair your design.
+Repair your tests.
+Repair your production code.
+
+## Service
+
+The service is to help people to fix their error
+in any phase design, implementation, test, production.
+
+The early you catch the better.
+
+## Role of design
+
+Good design lead to compact error free code. Non-spagetti.
+Good design simplify.
+
+## Change, Change, Change, ...
+
+## Boss vs. Authority
+
+Lack of good authority leads to bosses. (little mafia)
+
+## Who is the boss
+
+## Keep it complicated
+
+A complicated thinker will always made out of simple or normal thing
+a comlpicated thing.
+
+(e.g. 16 pages DWGTiler vs. 4 Pages)
+
+# Weed seed is growing
+
+Unclean design spread out and product weed software.
+Weed is growing with every feature you build in.
+
+(e.g. 30 sensor, 50 reports)
+
+A sign is if you inplement a feature and you have
+to change it always n-times in the code.
+
+If you have n different content types and you change
+and you change it not on one position but have to change
+it n-times.
+
 # Simple Robust Good Programming #
 
 ## if (obj == null) ##
