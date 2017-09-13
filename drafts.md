@@ -27,13 +27,15 @@ The early you catch better it is.
 
 ## Costs
 
-IBM System Science Institute says to find a bug in costs for instance
-1 Dollar and in production 100 Dollar.
+IBM System Science Institute says to find a bug costs for instance in production 100
+times more then in design phase.
 
 Design 		  1x
 Impl 		 10x
 Testing 	 15x
 Production 	100x
+
+(see "The Ourageous Cost of Skipping TDD & Code Reviews" from Eric Elliot)
 
 ## Mission
 
