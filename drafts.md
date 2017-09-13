@@ -12,6 +12,9 @@ Then they are lacking on talents.
 
 Car diesel pump example 1400€ compared to a small pump.
 
+To few software developer people. True, but not the truth.
+Leaders in all level are imcompetent.
+
 ## Start with business layer, know your business
 
 .. not user interface layer
