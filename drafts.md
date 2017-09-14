@@ -5,7 +5,7 @@
 ... being a full stack developer (you can not be expert in all)
 ... being new in a big project that runs over years and you does not have all the information in the brain the other have that exists for
 ... being pride and believe you can all
-...
+... having non-IT leaders in authority (see youtube video "the Expert")
 
 ## Unclean code leads to ...
 
