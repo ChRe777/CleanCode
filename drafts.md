@@ -1,6 +1,14 @@
+# 14.09.2017 #
+
+## Unclean code leads to ...
+
+... to more unclean code (if new people come in)
+... 
+
+
 # 13.09.2017 #
 
-## Unclean software leads to ...
+## Unclean code leads to ...
 
 ... burn out
 ... frustration
