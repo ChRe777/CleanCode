@@ -1,5 +1,12 @@
 # 14.09.2017 #
 
+## Things that lead to unclean code
+
+... being a full stack developer (you can not be expert in all)
+... being new in a big project that runs over years and you does not have all the information in the brain the other have that exists for
+... being pride and believe you can all
+...
+
 ## Unclean code leads to ...
 
 ... to more unclean code (if new people come in)
