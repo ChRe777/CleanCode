@@ -1,3 +1,72 @@
+# 15.9.2017 #
+
+## List of contents
+
+* Mission Goals
+
+* Identify unclean code 
+
+	* Weed seed
+	* Changes are hard
+	
+* Clean up instruction (like iFixit Repair your code)
+
+	* Design
+	
+		* Architecture
+		* Minimum 3-Tier-Application
+		* Client Server
+		* Useful Patterns
+		* Abstraction
+			* Power of Abstraction
+		
+	* Implementation
+	
+		* Naming
+			* Classes
+			* Variables
+			* Function and Methods
+	
+	* Tests
+	
+		* TDD (only fun if you like it)
+	
+	* Production
+		
+		* Count the Costs
+		* Make it new and transform?
+
+
+## Mission
+
+People should clearly see why their code got unclean
+and clean it themselves.
+
+After you cleaned up your code you, should enjoy
+to work on your code again.
+
+Like clean up a messy flat you should enjoy to
+live in your flat. If you mess it up again 
+yu should be able to clean it up again and
+again. To make your flat a better place to live.
+
+## iFixIt / iCleanUp
+
+iCleanUp for software is that was is iFixit for hardware
+
+Repair your thinking phase (collecting information). 
+Repair your design.
+Repair your tests.
+Repair your production code.
+
+## Service
+
+The service is to help people to fix their error
+in any phase design, implementation, test, production.
+
+The early you catch the better.
+
+
 # 14.09.2017 #
 
 ## Things that lead to unclean code
@@ -122,25 +191,7 @@ Production 	100x
 
 (see "The Ourageous Cost of Skipping TDD & Code Reviews" from Eric Elliot)
 
-## Mission
 
-Reduction of unclean software enviroments.
-
-## iFixIt
-
-iCleanUp for software is that was is iFixit for hardware
-
-Repair your thinking phase (collecting information). 
-Repair your design.
-Repair your tests.
-Repair your production code.
-
-## Service
-
-The service is to help people to fix their error
-in any phase design, implementation, test, production.
-
-The early you catch the better.
 
 ## Role of design
 
