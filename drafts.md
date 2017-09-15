@@ -7,7 +7,7 @@
 * Identify unclean code 
 
 	* Weed seed
-	* Changes are hard
+	* Foo Bar
 	
 * Clean up instruction (like iFixit Repair your code)
 
