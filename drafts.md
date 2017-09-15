@@ -149,11 +149,22 @@ Good design simplify.
 
 ## Change, Change, Change, ...
 
+Change is a live style. If you learn new things you
+automatically change. But if you does not want to change
+then you does not new anything new.
+
+Some protect things tht should change and they hinder
+that new things come in that necessary to grow up.
+
 ## Boss vs. Authority
 
 Lack of good authority leads to bosses. (little mafia)
 
 ## Who is the boss
+
+Sometimes the boss is not the boss. Sometimes take the role
+of the boss, because of lake of authority and also they
+have the power to do things.
 
 ## Keep it complicated
 
