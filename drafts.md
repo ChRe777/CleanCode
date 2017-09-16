@@ -1,4 +1,4 @@
-# 15.9.2017 #
+# 16.9.2017 #
 
 ## List of contents
 
@@ -14,6 +14,55 @@
 	* Design
 	
 		* Architecture
+		
+			* Fix to much table in database
+			
+			* Fix to much properties forms
+			
+			* Fix business logic in every layer (UI, DB, ...)
+			
+		* Minimum 3-Tier-Application
+		* Client Server
+		* Useful Patterns
+		* Abstraction
+			* Power of Abstraction
+		
+	* Implementation
+	
+		* Naming
+			* Classes
+			* Variables
+			* Function and Methods
+	
+	* Tests
+	
+		* TDD (only fun if you like it)
+	
+	* Production
+		
+		* Count the Costs
+		* Make it new and transform?
+
+
+# 15.9.2017 #
+
+
+## List of contents
+
+* Mission Goals
+
+* Identify unclean code 
+
+	* Weed seed
+	* Foo Bar
+	
+* Clean up instruction (like iFixit Repair your code)
+
+	* Design
+	
+		* Architecture
+		
+			* Fix to much 
 		* Minimum 3-Tier-Application
 		* Client Server
 		* Useful Patterns
