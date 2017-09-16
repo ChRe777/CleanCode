@@ -14,12 +14,11 @@
 	* Design
 	
 		* Architecture
-		
-			* Fix to much table in database
-			
-			* Fix to much properties forms
-			
-			* Fix business logic in every layer (UI, DB, ...)
+			* Fix incompetent software architect :-)
+			* Fix to much table in database in DB (blowed DB)
+			* Fix to much properties forms in UI (blowed UI)
+			* Fix business logic in every layer of BL (UI, DB, ...)
+			* Fix no existing API in BL
 			
 		* Minimum 3-Tier-Application
 		* Client Server
