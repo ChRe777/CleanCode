@@ -1,3 +1,65 @@
+# 18.9.2017 #
+
+
+
+# Repair Guide Heading #
+
+*Citate*
+
+## Introduction
+
+## Solution
+
+## Problem
+
+---
+
+# Design Problem with Layers #
+
+## Introduction
+
+Layered architecture are very important to seperate
+responsibility of each layer.
+The user interface layer is responsible for
+having a usable interface between human and the
+business layer.
+The business layer is reponsible to do the business
+logic of the application. But not to have an
+interface for the end user. 
+The data access or persistence layer is responsible
+to store and load data for the business layer.
+The data layer have no user interface. The
+business layer has no user interface. It is simple
+not in his reponsibility.
+Each Layer work hand in hand with each neighbour layer.
+The user interface layer does not work with the data layer.
+They are not neighbour and must not know each other or
+even must not no that each other exists. 
+For instance some software have no graphical interface,
+but only a API (advanced programming interface).
+
+## Solution
+
+Design your business seperate from user interface and
+data access (persistance) layer. Do not care how the
+user interface will look like. Do not care how the
+data is stored in the persistence layer. Do this first
+and do your business write. 
+Do not make the mistake design first a user interface
+if you do not know your business logic.
+Do not design your data tables before you do not know
+your business.
+
+Write a simple console application and use the
+business layer.
+
+[User Interface]    [Data Access Layer]
+	    ^          ^
+             \        /
+	      v      v
+	  [Business Layer]
+
+
 # 16.9.2017 #
 
 ## List of contents
