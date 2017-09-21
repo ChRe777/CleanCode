@@ -86,7 +86,7 @@ nearly solid structure.
 ## New Design
 
 The new design that optimizes both 
-	- **performace** and 
-	- **portability**.
+- **performace** and 
+- **portability**.
 
 It marks some **mile stones** in the evolution of the Mac.
