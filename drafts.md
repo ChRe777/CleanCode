@@ -1,6 +1,47 @@
+# 6.3.2019 #
+
+## Always at least 3 Teams ##
+
+Everything good is 3.
+
+You need a team
+* for the past
+* for the current
+* for the future
+
+Also these three times work parallel and change. The current team with be the
+past team in the future. The future team will get a current team. And the past
+team with fade out on the other new people will come for the future team. You
+can also compare it with the 3 generation you have in families. The kids, the
+parent and the grandparent. This system works.
+
+The team for the past need to maintain especially the old software.
+The team for the current is the team that active with the current task of current software.
+And the team for the future needs to research and beginn the future products.
+
+The current team has to learn from the future team. The past team form the current team.
+So you have consistantly knowledge transfer.
+
+Mostly we only have one team and they have todo all 3 areas which is not good.
+Often the past is a burden for the current team. Also hinders the current to do things
+for the future. So old things that hold the future which is comming if you want or not back.
+
+Often manager for to make thoughts for the future and for the past. They stick in the daily
+life of the current. But if you want or not the future is coming and if you want to survive
+int he future you have to care and the past. Because the past can be a stone on your leg that
+holds you back in going into the future. And the company be in danger to going to die.
+
+## Network-based programming ##
+
+### Examples of networks ###
+
+* Human body blood stream
+* Human brain cell network
+* Electricity grid
+
+
+
 # 18.9.2017 #
-
-
 
 # Repair Guide Heading #
 
