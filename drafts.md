@@ -1,3 +1,10 @@
+# 7.3.2019 #
+
+## Usability in Coding ##
+
+Normal we talk of usability in terms of using an application or an object.
+Coders are user of code. Code needs to be readable and understandable.
+
 # 6.3.2019 #
 
 ## Always at least 3 Teams ##
