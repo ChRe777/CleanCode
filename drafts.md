@@ -1,3 +1,13 @@
+# 12.3.2019 #
+
+## Problem with Scrum as (external) authority ##
+
+Compensating authorities
+* Scrum does not solve problems with false authority
+* Team as shared authority (self-help group)
+* No work leads to arguing and dicussion
+* Gelled Team that take over as authority
+
 # 7.3.2019 #
 
 ## Usability in Coding ##
