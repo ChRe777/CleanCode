@@ -1,3 +1,11 @@
+# 20.3.2019 #
+
+## Wrong decisions ##
+
+Decide to use false complicated technology creates a lot of problems.
+Even when it is a standard technology (like Angular2) which is complicated.
+Or use PLSQL from Oracle and Renter HTML with Business in the DB.
+
 # 12.3.2019 #
 
 ## Problem with Scrum as (external) authority ##
