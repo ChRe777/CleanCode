@@ -15,11 +15,16 @@ Complicated thinking did not know they are complicated thinkers
 
 ## Problem with Scrum as (external) authority ##
 
-Compensating authorities
+### Compensating authorities ###
 * Scrum does not solve problems with false authority
 * Team as shared authority (self-help group)
 * No work leads to arguing and dicussion
 * Gelled Team that take over as authority
+
+### Team is responsible ###
+* The responsibility is shared to all members of team like in a democracy
+* The one who talks the best and has the best arguments often lead indirect
+
 
 # 7.3.2019 #
 
