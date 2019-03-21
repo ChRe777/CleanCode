@@ -2,9 +2,14 @@
 
 ## Wrong decisions ##
 
-Decide to use false complicated technology creates a lot of problems.
-Even when it is a standard technology (like Angular2) which is complicated.
-Or use PLSQL from Oracle and Renter HTML with Business in the DB.
+### Complicated technology ###
+
+Choosing complicated technolgy always leads to problems in future
+
+### Complicated thinking people ###
+
+Complicated thinking did not know they are complicated thinkers
+
 
 # 12.3.2019 #
 
