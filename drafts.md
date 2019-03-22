@@ -1,3 +1,18 @@
+# 22.3.2019 #
+
+## Pseudo-Scrum ##
+
+I nearly every company I was who setup Scrum in their company
+they end in a pseudo-scrum. When I first read the rule of scrum
+I was very excited and positiv about this process. But later
+when you saw how it was in real life and what happened after
+a while. I saw remain a 'pseudo'-scrum culture which is not the
+real scrum. They use Jira for Task have some meetings like
+Planing, Daily and Retros. But there is no positive attitude
+of people anymore. What stays over is like a burned-out hull.
+On the outside it looks like scrum but inside the people know
+it is dead.
+
 # 20.3.2019 #
 
 ## Wrong decisions ##
