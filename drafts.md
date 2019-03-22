@@ -5,10 +5,14 @@
 ### Complicated technology ###
 
 Choosing complicated technolgy always leads to problems in future
+It is important to play with technology to find technology from
+made from people that really "keep it simple".
 
 ### Complicated thinking people ###
 
 Complicated thinking did not know they are complicated thinkers
+It is important to hire the right people for a project at the
+start of the project.
 
 
 # 12.3.2019 #
