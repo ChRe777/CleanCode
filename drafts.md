@@ -49,8 +49,11 @@ start of the project.
 
 ## Usability in Coding ##
 
-Normal we talk of usability in terms of using an application or an object.
-Coders are user of code. Code needs to be readable and understandable.
+ * Normal we talk of usability in terms of using an application or an object.
+ * Coders are user of code. 
+ * Code needs to be readable and understandable and learnable (usability for coders)
+ * Code needs to nbe maintain able 
+ * So code do not can be complicated
 
 # 6.3.2019 #
 
