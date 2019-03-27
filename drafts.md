@@ -1,3 +1,9 @@
+# 27.3.2019 #
+
+## Perverted authorities ##
+
+Software developer 
+
 # 22.3.2019 #
 
 ## Pseudo-Scrum ##
