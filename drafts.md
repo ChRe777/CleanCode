@@ -5,11 +5,9 @@
 Often a software developer take over the resposibilites of the authorities.
 Because the authorities are not do what they are should do.
 
-Authority               | Boss
-------------------------|---------------
-Can do what they want   | Can NOT do what they want
-to people to do unter   | the people do under them
-them                    | 
+Authority                                             | Boss
+----------------------------------------------------- | --------------------------------------------------------
+Can do what they want<br> to people to do unter them  | Can NOT do what they want<br>the people do under them                    
 
 
 For example if there is a authority which
