@@ -2,8 +2,24 @@
 
 ## Perverted authorities ##
 
-Software developer 
+Often a software developer take over the resposibilites of the authorities.
+Because the authorities are not do what they are should do.
 
+Authority               | Boss
+------------------------|---------------
+Can do what they want   | Can NOT do what they want
+to people to do unter   | the people do under them
+them                    | 
+
+
+For example if there is a authority which
+one person under them. And the ony person goes 
+is sick or away in vacation the authority can
+do the work of the persn. The difference to a
+boss is that he can not do the work because
+he has never done it.
+		  
+		  
 # 22.3.2019 #
 
 ## Pseudo-Scrum ##
