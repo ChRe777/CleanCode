@@ -16,6 +16,11 @@ is sick or away in vacation the authority can
 do the work of the persn. The difference to a
 boss is that he can not do the work because
 he has never done it.
+
+If you have bosses in your company instead of "good" authorities it will
+create always trouble, because they are in charge and must make decision
+from things they have never done themselves and so they did know why to
+decide.
 		  
 		  
 # 22.3.2019 #
